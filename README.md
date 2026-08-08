@@ -792,3 +792,6 @@ This project is available for educational and development purposes.
 ⭐ **If you like this project, consider giving the repository a star!** ⭐
 
 </div>
+
+<img width="921" height="678" alt="image" src="https://github.com/user-attachments/assets/d801e339-bb74-4382-8be7-978954b1b59d" />
+
